@@ -5,15 +5,3 @@ title: New post
 description: NEW BLOG POST
 ---
 Hi there
-
-
-
-\`\``js
-
-function () {
-
-console.log("Booyah");
-
-}
-
-\`\`
